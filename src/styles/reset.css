@@ -1,0 +1,16 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Press Start 2P", cursive;
+  user-select: none;
+}
+body {
+  cursor: url('../src/assets/cursor/yugicursor.png') default;
+}
+button, a, img:hover, button: hover, a:hover{
+  cursor: url('./src/assets/cursor/yamiyugicursorGLOW.png') auto;
+
+}
