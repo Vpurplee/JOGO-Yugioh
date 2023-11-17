@@ -4,7 +4,7 @@ Bem-vindo ao Yugioh Jo-ken-po, um jogo de cartas no estilo pedra-papel-tesoura c
 
 ## Como Jogar
 
-Para jogar, acesse [este link]([https://github.com/Vpurplee/JOGO-Yugioh](https://vpurplee.github.io/JOGO-Yugioh/)).
+Para jogar, acesse [este link](https://vpurplee.github.io/JOGO-Yugioh/).
 
 Ao carregar o jogo, cartas são distribuídas para o jogador e o computador.
 Passe o mouse sobre suas cartas para ver detalhes e clique para escolher uma carta para jogar.
