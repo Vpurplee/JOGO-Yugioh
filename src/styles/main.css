@@ -3,8 +3,8 @@
 .bg-video{
     position: absolute;
     z-index: -2;
-    width: 100vw;
-    height: 100vh;
+    width: max-content;
+    height: max-content;
     overflow: hidden;
     display: flex;
     justify-content: center;
