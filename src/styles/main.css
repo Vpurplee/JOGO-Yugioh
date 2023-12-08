@@ -7,11 +7,10 @@
     height: max-content;
     overflow: hidden;
     display: flex;
-    justify-content: center;
+    justify-content: end;
 }
 .bg-video video{
-       width: max-content;
-    height: max-content;
+       width: 100%;
 }
 .bg-video::after{
 content: '';
